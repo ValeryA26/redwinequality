@@ -7,4 +7,5 @@ Desarrollar una herramienta capaz de clasificar como buena o mala y calificar co
 El dataset consta de 1599 vinos los cuales han sido descritos con sus características fisicoquímicas así como calificados con un número entero entre el 0 y el 10. 
 ## Modelos usados
 GaussianNB, DesicionTree, RandomForest, SVC, 
-## [Repositorio](/RedWineQuality.ipynb)
+### [Repositorio](/RedWineQuality.ipynb)
+### [Vídeo](https://youtu.be/RXj-ZlqeFBA)
